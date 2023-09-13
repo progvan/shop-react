@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shop-react/static/css/main.50110a4a.css",
+    "main.js": "/shop-react/static/js/main.391f9c50.js",
+    "static/media/palazzo-delle-stelline-hotel-camere-1900x1200.webp": "/shop-react/static/media/palazzo-delle-stelline-hotel-camere-1900x1200.6f259e519671f3db5367.webp",
+    "index.html": "/shop-react/index.html",
+    "main.50110a4a.css.map": "/shop-react/static/css/main.50110a4a.css.map",
+    "main.391f9c50.js.map": "/shop-react/static/js/main.391f9c50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50110a4a.css",
+    "static/js/main.391f9c50.js"
+  ]
+}
